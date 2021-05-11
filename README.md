@@ -17,6 +17,7 @@
 
 - React (Docs, Tutorial)
   - https://reactjs.org/ 
+  - https://www.taniarascia.com/getting-started-with-react/
 - Reactnative (Docs)
   - https://reactnative.dev/
 
